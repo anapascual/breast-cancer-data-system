@@ -506,7 +506,7 @@ class RedCapApp:
 
         #Codigo proporcionado por el API playground de REDCap que permite exportar el reporte del servidor web
         data = {
-            'token': '20490714C6ECE27AF700C5D5FBC3C9C1',
+            'token': 'YOUR_API_KEY',
             'content': 'report',
             'format': 'csv',
             'report_id': report_id,
