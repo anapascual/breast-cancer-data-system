@@ -1,0 +1,6 @@
+1. Abrir el script MAMAVIDA.py con VSCode.
+2. Ejecutar el código y comprobar que todo funcione
+3. Comprobar que en la carpeta "logos y archivos" están los logos necesarios indicados.
+4. Ejecutar el siguiente comando en la terminal de VSCode:
+
+pyinstaller --onefile --add-data "logos y archivos/dict_form_raw.txt:logos y archivos" --add-data "logos y archivos/dict_form_label.txt:logos y archivos" --add-data "logos y archivos/LOGO_5.png:logos y archivos" --add-data "logos y archivos/LOGO_ESCUELA.png:logos y archivos" --add-data "logos y archivos/logo_ui_idiscc-removebg.png:logos y archivos"  --add-data "logos y archivos/LOGO_5.ico:logos y archivos" --icon="LOGO_5.ico" --noconsole --clean MAMAVIDA.py 

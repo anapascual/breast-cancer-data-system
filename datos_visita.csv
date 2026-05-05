@@ -1,0 +1,234 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,id_visita,investigadora,fecha_visita,control_paciente,observaciones,datos_de_la_visita_complete
+1,visitas_arm_1,,1,0,2,2021-09-16,1,,2
+2,visitas_arm_1,,1,0,2,2021-09-16,1,,2
+3,visitas_arm_1,,1,0,4,2021-09-17,1,,2
+4,visitas_arm_1,,1,0,2,2021-09-23,8,retira consentimiento,2
+5,visitas_arm_1,,1,0,2,2021-09-23,1,,2
+6,visitas_arm_1,,1,0,4,2021-09-24,1,,2
+7,visitas_arm_1,,1,0,2,2021-10-14,1,,2
+8,visitas_arm_1,,1,0,4,2021-10-15,8,retira consentimiento,2
+9,visitas_arm_1,,1,0,2,2022-10-20,1,,2
+10,visitas_arm_1,,1,0,2,2021-10-21,1,,2
+11,visitas_arm_1,,1,0,2,2021-10-21,1,,2
+12,visitas_arm_1,,1,0,2,2021-10-21,1,,2
+13,visitas_arm_1,,1,0,2,2021-10-21,1,,2
+14,visitas_arm_1,,1,0,2,2021-10-22,1,,2
+15,visitas_arm_1,,1,0,2,2021-10-22,1,,2
+16,visitas_arm_1,,1,0,4,2021-10-29,1,,2
+17,visitas_arm_1,,1,0,4,2021-10-29,1,,2
+18,visitas_arm_1,,1,0,4,2021-10-29,1,,2
+19,visitas_arm_1,,1,0,4,2021-11-12,1,,2
+20,visitas_arm_1,,1,0,4,2021-11-12,1,,2
+21,visitas_arm_1,,1,0,4,2021-11-12,1,NO TUBOS DE LABORATORIO 1º VISITA,2
+22,visitas_arm_1,,1,0,4,2021-11-12,1,,2
+23,visitas_arm_1,,1,0,4,2021-11-12,1,,2
+24,visitas_arm_1,,1,0,4,2022-11-18,1,,2
+25,visitas_arm_1,,1,0,4,2021-11-18,1,,2
+26,visitas_arm_1,,1,0,2,2021-11-24,1,,2
+27,visitas_arm_1,,1,0,2,2021-11-24,1,,2
+28,visitas_arm_1,,1,0,2,2021-12-02,1,,2
+29,visitas_arm_1,,1,0,2,2021-12-09,1,,2
+30,visitas_arm_1,,1,0,2,2021-12-16,1,,2
+31,visitas_arm_1,,1,0,2,2021-12-23,1,,2
+32,visitas_arm_1,,1,0,2,2021-12-23,1,"dia 23/12/2021 eco ""NO VALORABLE""",2
+33,visitas_arm_1,,1,0,2,2021-12-23,1,,2
+34,visitas_arm_1,,1,0,2,2022-01-12,1,La paciente anula la cita de revisión.,2
+35,visitas_arm_1,,1,0,2,2022-01-20,1,,2
+36,visitas_arm_1,,1,0,2,2022-01-13,1,Se hace visita basal. No revisiones ya que se va a vivir a otra comunidad,2
+37,visitas_arm_1,,1,0,2,2022-01-13,1,,2
+38,visitas_arm_1,,1,0,2,2022-01-20,1,,2
+39,visitas_arm_1,,1,0,4,2022-01-20,1,,2
+40,visitas_arm_1,,1,0,2,2022-01-27,1,,2
+41,visitas_arm_1,,1,0,2,2022-02-03,1,,2
+42,visitas_arm_1,,1,0,2,2022-02-10,1,,2
+43,visitas_arm_1,,1,0,2,2022-02-10,1,,2
+44,visitas_arm_1,,1,0,2,2022-02-10,1,,2
+45,visitas_arm_1,,1,0,2,2022-02-10,1,falta registro 3 dias,2
+46,visitas_arm_1,,1,0,2,2022-02-10,1,,2
+47,visitas_arm_1,,1,0,4,2022-02-11,1,,2
+48,visitas_arm_1,,1,0,4,2022-02-17,1,,2
+49,visitas_arm_1,,1,0,4,2022-03-04,1,"¡El dia 03/03/2023 No se puede hacer la prueba de composición  corporal porque le coincide con la consulta de oftalmologia , se cambia paara el 30/03/2023",2
+50,visitas_arm_1,,1,0,4,2022-02-18,1,,2
+51,visitas_arm_1,,1,0,4,2022-02-18,1,,2
+52,visitas_arm_1,,1,0,4,2022-02-18,1,,2
+53,visitas_arm_1,,1,0,4,2022-02-18,1,,2
+54,visitas_arm_1,,1,0,4,2022-02-25,1,,2
+55,visitas_arm_1,,1,0,4,2022-03-04,7,se saca del estudio. D. cognitivo,2
+56,visitas_arm_1,,1,0,4,2022-03-04,1,,2
+57,visitas_arm_1,,1,0,4,2022-03-04,1,,2
+58,visitas_arm_1,,1,0,2,2022-03-04,1,,2
+59,visitas_arm_1,,1,0,2,2022-03-04,1,,2
+60,visitas_arm_1,,1,0,4,2022-03-04,1,,2
+61,visitas_arm_1,,1,0,2,2022-03-24,1,,2
+62,visitas_arm_1,,1,0,2,2022-03-24,1,,2
+63,visitas_arm_1,,1,0,2,2022-03-24,1,,2
+64,visitas_arm_1,,1,0,2,2022-03-24,1,,2
+65,visitas_arm_1,,1,0,2,2022-03-24,1,,2
+66,visitas_arm_1,,1,0,2,2022-03-24,1,,2
+67,visitas_arm_1,,1,0,2,2022-03-31,1,,2
+68,visitas_arm_1,,1,0,2,2022-04-07,1,,2
+69,visitas_arm_1,,1,0,4,2022-04-08,1,,2
+70,visitas_arm_1,,1,0,4,2022-04-08,1,,2
+71,visitas_arm_1,,1,0,4,2022-04-08,1,"citada en 2 ocasiones (incomparecente), No volvemos a citar",2
+72,visitas_arm_1,,1,0,2,2022-04-21,1,,2
+73,visitas_arm_1,,1,0,2,2022-04-21,1,,2
+74,visitas_arm_1,,1,0,2,2022-04-28,1,,2
+75,visitas_arm_1,,1,0,2,2022-05-05,1,,2
+76,visitas_arm_1,,1,0,4,2022-05-06,1,,2
+77,visitas_arm_1,,1,0,4,2022-05-06,1,05/05/2023 Paciente ingresada 4n2612; FALLECIDA:,2
+78,visitas_arm_1,,1,0,2,2022-05-12,1,,2
+79,visitas_arm_1,,1,0,2,2022-05-12,1,,2
+80,visitas_arm_1,,1,0,2,2022-05-19,1,,2
+81,visitas_arm_1,,1,0,2,2022-05-25,1,,2
+82,visitas_arm_1,,1,0,2,2022-05-26,1,en la ECO (errata) aparece con el codigo MMVIDA-81A,2
+83,visitas_arm_1,,1,0,2,2022-05-26,1,,2
+84,visitas_arm_1,,1,0,2,2022-06-02,1,,2
+85,visitas_arm_1,,1,0,2,2022-06-03,1,,2
+86,visitas_arm_1,,1,0,4,2022-06-08,1,,2
+87,visitas_arm_1,,1,0,2,2022-06-09,1,,2
+88,visitas_arm_1,,1,0,4,2022-06-17,1,CITADA 2 VECES EL 01/02/2024 (MAL CITADA INCOMPARECENTE) Y EL 07/06/2024,2
+89,visitas_arm_1,,1,0,4,2022-06-17,1,,2
+90,visitas_arm_1,,1,0,4,2022-06-17,1,,2
+91,visitas_arm_1,,1,0,4,2022-06-17,1,,2
+92,visitas_arm_1,,1,0,4,2022-06-17,1,,2
+93,visitas_arm_1,,1,0,2,2022-06-30,1,,2
+94,visitas_arm_1,,1,0,2,2022-06-30,1,,2
+95,visitas_arm_1,,1,0,2,2022-06-30,7,"No criterios de inclusión, (no se pude poner de pie)",2
+96,visitas_arm_1,,1,0,2,2022-06-30,1,,2
+97,visitas_arm_1,,1,0,4,2022-07-29,1,,2
+98,visitas_arm_1,,1,0,4,2022-07-29,1,,2
+99,visitas_arm_1,,1,0,4,2022-07-29,1,,2
+100,visitas_arm_1,,1,0,4,2022-07-29,1,,2
+101,visitas_arm_1,,1,0,2,2022-09-16,7,operada el 11/08/2022. hago todo menos ECO,2
+102,visitas_arm_1,,1,0,4,2022-09-09,1,,2
+103,visitas_arm_1,,1,0,2,2022-09-30,7,OPERADA EL 2/09/2022,2
+104,visitas_arm_1,,1,0,2,2022-09-15,1,,2
+105,visitas_arm_1,,1,0,4,2022-09-16,1,,2
+106,visitas_arm_1,,1,0,4,2022-09-16,1,,2
+107,visitas_arm_1,,1,0,4,2022-09-16,1,,2
+108,visitas_arm_1,,1,0,2,2022-09-22,1,,2
+109,visitas_arm_1,,1,0,4,2022-09-30,1,OPERADA Agosto 2022,2
+110,visitas_arm_1,,1,0,4,2022-09-30,1,,2
+111,visitas_arm_1,,1,0,4,2022-09-30,7,OPERADA Agosto2022,2
+112,visitas_arm_1,,1,0,4,2022-09-30,1,REPROGRAMDA 2 VECES la cita; No viene a la cita del dia 2/02/2024 Y 14/02/2024,2
+113,visitas_arm_1,,1,0,4,2022-10-07,1,,2
+114,visitas_arm_1,,1,0,4,2022-10-07,1,"Reprograda la cita que tenía hoy (06/10/2023)a las 8:30 (no por nuestra parte), para el 26/10/2023",2
+115,visitas_arm_1,,1,0,2,2022-10-13,1,,2
+116,visitas_arm_1,,1,0,2,2022-10-13,1,,2
+117,visitas_arm_1,,1,0,2,2022-10-14,1,,2
+118,visitas_arm_1,,1,0,4,2022-10-20,1,"VISITA AL AÑO , REALIZADA POR ANGELICA",2
+119,visitas_arm_1,,1,0,4,2022-10-21,1,,2
+120,visitas_arm_1,,1,0,2,2022-10-21,1,,2
+121,visitas_arm_1,,1,0,4,2022-10-28,1,NO TUBOS DE LABORATORIO,2
+122,visitas_arm_1,,1,0,4,2022-10-28,1,NO TUBOS DE LABORATORIO,2
+123,visitas_arm_1,,1,0,2,2022-10-20,1,,2
+124,visitas_arm_1,,1,0,2,2022-03-11,1,no tiene previa NI LABORATORIO. Operada hace 1 año.,2
+125,visitas_arm_1,,1,0,2,2022-11-10,1,,2
+126,visitas_arm_1,,1,0,4,2023-02-24,1,,2
+127,visitas_arm_1,,1,0,2,2023-03-16,1,,2
+128,visitas_arm_1,,1,0,2,2023-05-11,3,,2
+129,visitas_arm_1,,1,0,4,2023-05-26,1,,2
+130,visitas_arm_1,,1,0,4,2023-05-26,1,,2
+131,visitas_arm_1,,1,0,4,2023-07-14,1,DÍA 31/01/2024 prueba realizada por Angélica,2
+132,visitas_arm_1,,1,0,4,2023-07-21,1,Mastectomia bilateral 04/07/2023; no se puede realizar la dina mometría,2
+133,visitas_arm_1,,1,0,2,2023-06-29,1,,2
+134,visitas_arm_1,,1,0,2,2023-07-05,1,,2
+135,visitas_arm_1,,1,0,2,2023-06-22,1,"OPERADA A PRINCIPIOS DE JUNIO, PERO LE HAGO TODO Y LA INCLUYO",2
+136,visitas_arm_1,,1,0,4,2023-07-21,1,,2
+137,visitas_arm_1,,1,0,4,2023-07-28,1,decide evitar recibir rt  le relizan mastectomia. No tiene previsto recibir ningun otro tto,2
+138,visitas_arm_1,,1,0,4,2023-07-28,1,,2
+139,visitas_arm_1,,1,0,2,2023-08-11,1,,2
+140,visitas_arm_1,,1,0,2,2023-08-17,1,,2
+141,visitas_arm_1,,1,0,2,2023-08-03,1,,2
+142,visitas_arm_1,,1,0,,,,,1
+143,visitas_arm_1,,1,0,,,,,1
+144,visitas_arm_1,,1,0,,,,,1
+145,visitas_arm_1,,1,0,2,2023-06-08,1,"Hecha analitica 30/05/2023, pero retira consetimiento",2
+146,visitas_arm_1,,1,0,,,,,1
+147,visitas_arm_1,,1,0,,,,,1
+148,visitas_arm_1,,1,0,2,2023-08-03,1,,2
+149,visitas_arm_1,,1,0,,,,,1
+150,visitas_arm_1,,1,0,2,2023-06-08,1,,2
+151,visitas_arm_1,,1,0,2,2023-06-08,1,,2
+152,visitas_arm_1,,1,0,2,2023-11-23,1,,2
+153,visitas_arm_1,,1,0,2,2023-11-08,1,,2
+154,visitas_arm_1,,1,0,4,2023-11-17,1,,2
+155,visitas_arm_1,,1,0,4,2023-11-17,1,,2
+156,visitas_arm_1,,1,0,2,2023-11-23,1,,2
+157,visitas_arm_1,,1,0,,,,,1
+158,visitas_arm_1,,1,0,4,2023-11-24,1,,2
+159,visitas_arm_1,,1,0,4,2023-11-24,1,,2
+160,visitas_arm_1,,1,0,2,2023-11-16,1,,2
+161,visitas_arm_1,,1,0,4,2023-12-01,1,,2
+162,visitas_arm_1,,1,0,2,2023-12-14,1,,2
+163,visitas_arm_1,,1,0,2,2023-12-14,1,,2
+164,visitas_arm_1,,1,0,4,2023-12-22,1,,2
+165,visitas_arm_1,,1,0,2,2023-12-20,1,,2
+166,visitas_arm_1,,1,0,2,2023-12-21,1,,2
+167,visitas_arm_1,,1,0,2,2023-12-14,1,,2
+168,visitas_arm_1,,1,0,2,2023-12-14,1,,2
+169,visitas_arm_1,,1,0,4,2023-12-22,1,,2
+170,visitas_arm_1,,1,0,4,2023-12-29,1,,2
+171,visitas_arm_1,,1,0,4,2023-12-29,1,,2
+172,visitas_arm_1,,1,0,4,2024-01-12,1,,2
+173,visitas_arm_1,,1,0,2,2024-01-18,1,,2
+174,visitas_arm_1,,1,0,2,2024-01-18,1,,2
+175,visitas_arm_1,,1,0,2,2024-01-24,1,,2
+176,visitas_arm_1,,1,0,2,2024-01-24,1,,2
+177,visitas_arm_1,,1,0,4,2024-02-02,1,,2
+178,visitas_arm_1,,1,0,2,2024-02-07,1,,2
+179,visitas_arm_1,,1,0,4,2024-02-09,1,,2
+180,visitas_arm_1,,1,0,4,2024-02-09,1,"ACUDE A LA PRUEBA. EN EL ULTIMO MOMENTO DECIDE IRSE, PENDIENTE LLAMARLA, CITAMOS PARA EL 23-02-2024",2
+181,visitas_arm_1,,1,0,2,2024-02-08,1,08/02/2024 No viene se reprograma para el dia 08/02/2024,2
+182,visitas_arm_1,,1,0,2,2024-02-15,1,,2
+183,visitas_arm_1,,1,0,2,2024-02-22,1,,2
+184,visitas_arm_1,,1,0,,,,,1
+185,visitas_arm_1,,1,0,,,,,1
+186,visitas_arm_1,,1,0,2,2024-02-29,1,,2
+187,visitas_arm_1,,1,0,4,2024-03-01,1,,2
+188,visitas_arm_1,,1,0,4,2024-03-01,1,,2
+189,visitas_arm_1,,1,0,,,,,1
+190,visitas_arm_1,,1,0,,,,,1
+191,visitas_arm_1,,1,0,2,2024-03-13,1,,2
+192,visitas_arm_1,,1,0,,,,,1
+193,visitas_arm_1,,1,0,,,,,1
+194,visitas_arm_1,,1,0,,,,,1
+195,visitas_arm_1,,1,0,4,2024-03-15,1,,2
+196,visitas_arm_1,,1,0,2,2024-03-20,1,,2
+197,visitas_arm_1,,1,0,4,2024-03-22,1,,2
+198,visitas_arm_1,,1,0,,,,,1
+199,visitas_arm_1,,1,0,2,2024-04-10,1,,2
+200,visitas_arm_1,,1,0,,,,,1
+201,visitas_arm_1,,1,0,2,2024-04-17,1,,2
+202,visitas_arm_1,,1,0,2,2024-04-17,1,,2
+203,visitas_arm_1,,1,0,,,,,1
+204,visitas_arm_1,,1,0,,,,,1
+205,visitas_arm_1,,1,0,4,2024-04-19,1,,2
+206,visitas_arm_1,,1,0,2,2024-04-25,1,,2
+207,visitas_arm_1,,1,0,2,2024-04-25,1,,2
+208,visitas_arm_1,,1,0,4,2024-04-26,1,,2
+209,visitas_arm_1,,1,0,4,2024-04-26,1,,2
+210,visitas_arm_1,,1,0,4,2024-05-03,1,,2
+211,visitas_arm_1,,1,0,4,2024-05-03,1,,2
+212,visitas_arm_1,,1,0,4,2024-05-03,1,,2
+213,visitas_arm_1,,1,0,4,2024-05-03,1,,2
+214,visitas_arm_1,,1,0,4,2024-05-24,1,"10/05/2024 No hacemos la prueba por se solapa con la consulta de cardiologia , se vuelve a citar para el 24/05/2024",2
+215,visitas_arm_1,,1,0,4,2024-05-10,1,,2
+216,visitas_arm_1,,1,0,2,2024-05-09,1,,2
+217,visitas_arm_1,,1,0,2,2024-05-09,1,,2
+218,visitas_arm_1,,1,0,2,2024-05-09,1,,2
+219,visitas_arm_1,,1,0,2,2024-05-23,1,,2
+220,visitas_arm_1,,1,0,4,2024-05-24,1,,2
+221,visitas_arm_1,,1,0,2,2024-05-29,1,,2
+222,visitas_arm_1,,1,0,2,2024-05-30,1,,2
+223,visitas_arm_1,,1,0,4,2024-05-31,1,,2
+224,visitas_arm_1,,1,0,4,2024-05-31,1,,2
+225,visitas_arm_1,,1,0,2,2024-05-30,1,,2
+226,visitas_arm_1,,1,0,,,,,1
+227,visitas_arm_1,,1,0,2,2024-06-13,1,,2
+228,visitas_arm_1,,1,0,2,2024-06-13,1,,2
+229,visitas_arm_1,,1,0,2,2024-06-12,1,,2
+230,visitas_arm_1,,1,0,2,2024-06-13,1,,2
+231,visitas_arm_1,,1,0,4,2024-06-14,1,,2
+232,visitas_arm_1,,1,0,4,2024-06-14,1,,2
+233,visitas_arm_1,,1,0,4,2024-06-14,1,,2

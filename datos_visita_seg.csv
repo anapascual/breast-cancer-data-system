@@ -1,0 +1,345 @@
+record_id,redcap_event_name,redcap_repeat_instrument,redcap_repeat_instance,investigadora,fecha_visita,control_paciente,id_visita,observaciones,datos_de_la_visita_complete
+1,visitas_arm_1,,2,2,21/04/2022,1,1,,2
+1,visitas_arm_1,,3,2,11/11/2022,1,2,,2
+1,visitas_arm_1,,4,2,16/11/2023,1,3,,2
+2,visitas_arm_1,,2,2,,6,1,,1
+2,visitas_arm_1,,3,2,16/02/2023,1,2,,2
+2,visitas_arm_1,,4,2,01/02/2024,1,3,,2
+3,visitas_arm_1,,2,4,,6,1,,1
+3,visitas_arm_1,,3,4,16/06/2023,1,2,,2
+3,visitas_arm_1,,4,4,14/06/2024,1,3,,2
+4,visitas_arm_1,,2,2,,8,1,retira consentimiento,1
+5,visitas_arm_1,,2,2,,6,1,,1
+5,visitas_arm_1,,3,2,24/02/2023,1,2,,2
+6,visitas_arm_1,,2,4,08/09/2022,1,1,,2
+6,visitas_arm_1,,3,4,21/09/2023,1,2,,2
+6,visitas_arm_1,,4,4,20/09/2024,5,3,,2
+7,visitas_arm_1,,2,2,,6,1,,1
+7,visitas_arm_1,,3,2,11/11/2023,1,2,,2
+8,visitas_arm_1,,2,4,,7,1,retira consentimiento,1
+8,visitas_arm_1,,3,4,,7,2,retira consentimiento,1
+9,visitas_arm_1,,2,2,09/02/2023,3,1,,2
+10,visitas_arm_1,,2,2,,6,1,,1
+10,visitas_arm_1,,3,2,09/03/2023,1,2,,2
+10,visitas_arm_1,,4,2,24/04/2024,1,3,,2
+11,visitas_arm_1,,2,2,,6,1,,1
+11,visitas_arm_1,,3,2,16/03/2022,1,2,,2
+11,visitas_arm_1,,4,2,21/03/2024,3,3,,2
+12,visitas_arm_1,,2,2,,6,1,,1
+12,visitas_arm_1,,3,2,,6,2,,1
+12,visitas_arm_1,,4,2,05/10/2024,1,3,,2
+13,visitas_arm_1,,2,2,12/01/2023,1,1,,2
+13,visitas_arm_1,,3,2,12/01/2023,1,2,,2
+14,visitas_arm_1,,2,2,,6,1,,1
+14,visitas_arm_1,,3,2,16/02/2023,1,2,,2
+14,visitas_arm_1,,4,2,01/02/2024,1,3,,2
+15,visitas_arm_1,,2,2,,6,1,,1
+15,visitas_arm_1,,3,2,18/10/2023,1,2,,2
+16,visitas_arm_1,,2,4,25/02/2022,1,1,,2
+16,visitas_arm_1,,3,4,14/04/2023,1,2,,2
+16,visitas_arm_1,,4,4,12/04/2024,5,3,,2
+17,visitas_arm_1,,2,4,,6,1,,1
+17,visitas_arm_1,,3,4,,6,2,,1
+17,visitas_arm_1,,4,4,20/10/2023,1,3,,2
+18,visitas_arm_1,,2,4,,6,1,,1
+18,visitas_arm_1,,3,4,,6,2,,1
+18,visitas_arm_1,,4,4,22/09/2023,1,3,,2
+19,visitas_arm_1,,2,4,,6,1,,1
+19,visitas_arm_1,,3,4,10/11/2022,1,2,,2
+19,visitas_arm_1,,4,4,16/11/2023,1,3,,2
+20,visitas_arm_1,,2,4,29/07/2022,1,1,,2
+20,visitas_arm_1,,3,4,27/01/2023,1,2,,2
+20,visitas_arm_1,,4,4,26/01/2024,1,3,,2
+21,visitas_arm_1,,2,4,,6,1,NO TUBOS DE LABORATORIO 1º VISITA,1
+21,visitas_arm_1,,3,4,22/09/2022,1,2,NO TUBOS DE LABORATORIO 1º VISITA,2
+21,visitas_arm_1,,4,4,28/06/2023,1,3,NO TUBOS DE LABORATORIO 1º VISITA,2
+22,visitas_arm_1,,2,4,09/06/2021,1,1,,2
+22,visitas_arm_1,,3,4,30/06/2023,1,2,,2
+22,visitas_arm_1,,4,4,28/06/2024,5,3,,2
+23,visitas_arm_1,,2,4,,6,1,,1
+23,visitas_arm_1,,3,4,08/09/2022,1,2,,2
+23,visitas_arm_1,,4,4,03/11/2023,5,3,,2
+24,visitas_arm_1,,2,4,09/12/2022,1,1,,2
+24,visitas_arm_1,,3,4,09/06/2023,1,2,,2
+24,visitas_arm_1,,4,4,07/06/2024,1,3,,2
+25,visitas_arm_1,,2,4,,6,1,,1
+25,visitas_arm_1,,3,4,22/11/2023,5,3,,2
+26,visitas_arm_1,,2,2,,6,1,,1
+26,visitas_arm_1,,3,2,08/03/2023,1,2,,2
+26,visitas_arm_1,,4,2,02/02/2024,1,3,,2
+27,visitas_arm_1,,2,2,09/09/2022,1,1,,2
+27,visitas_arm_1,,3,2,,1,2,,1
+27,visitas_arm_1,,4,2,15/12/2023,1,3,,2
+28,visitas_arm_1,,2,2,,6,1,,1
+29,visitas_arm_1,,2,2,,6,1,,1
+29,visitas_arm_1,,3,2,12/05/2023,1,2,,2
+30,visitas_arm_1,,2,2,,6,1,,1
+31,visitas_arm_1,,2,2,,6,1,,1
+32,visitas_arm_1,,2,2,,6,1,"dia 23/12/2021 eco ""NO VALORABLE""",1
+32,visitas_arm_1,,3,2,12/04/2023,1,2,"dia 23/12/2021 eco ""NO VALORABLE""",2
+32,visitas_arm_1,,4,2,19/04/2024,1,3,"dia 23/12/2021 eco ""NO VALORABLE""",2
+33,visitas_arm_1,,2,2,14/10/2022,1,1,,2
+33,visitas_arm_1,,3,2,06/10/2023,1,3,,2
+34,visitas_arm_1,,2,2,,6,1,La paciente anula la cita de revisión.,1
+35,visitas_arm_1,,2,2,,6,1,,1
+35,visitas_arm_1,,3,2,27/04/2023,1,2,,2
+35,visitas_arm_1,,4,2,02/02/2024,1,3,,2
+36,visitas_arm_1,,2,2,,7,1,Se hace visita basal. No revisiones ya que se va a vivir a otra comunidad,1
+36,visitas_arm_1,,3,2,,7,2,Se hace visita basal. No revisiones ya que se va a vivir a otra comunidad,1
+37,visitas_arm_1,,2,2,,6,1,,1
+37,visitas_arm_1,,3,2,21/04/2023,1,2,,2
+37,visitas_arm_1,,4,2,19/04/2024,1,3,,2
+38,visitas_arm_1,,2,2,,6,1,,1
+38,visitas_arm_1,,3,2,08/03/2024,1,3,,2
+39,visitas_arm_1,,2,4,01/07/2022,1,1,,2
+39,visitas_arm_1,,3,4,13/01/2023,1,2,,2
+39,visitas_arm_1,,4,4,12/01/2024,5,3,,2
+40,visitas_arm_1,,2,2,,6,1,,1
+40,visitas_arm_1,,3,2,27/04/2023,1,2,,2
+41,visitas_arm_1,,2,2,13/10/2022,1,1,,2
+41,visitas_arm_1,,3,2,20/04/2023,1,2,,2
+41,visitas_arm_1,,4,2,25/04/2024,1,3,,2
+42,visitas_arm_1,,2,2,,6,1,,1
+42,visitas_arm_1,,3,2,27/04/2023,3,2,,2
+43,visitas_arm_1,,2,2,,6,1,,1
+44,visitas_arm_1,,2,2,,6,1,,1
+44,visitas_arm_1,,3,2,11/05/2023,1,2,,2
+44,visitas_arm_1,,4,2,10/01/2024,1,3,,2
+45,visitas_arm_1,,2,2,,6,1,falta registro 3 dias,1
+45,visitas_arm_1,,3,2,13/04/2023,1,2,falta registro 3 dias,2
+46,visitas_arm_1,,2,2,,6,1,,1
+46,visitas_arm_1,,3,2,11/05/2023,1,2,,2
+46,visitas_arm_1,,4,2,15/02/2024,1,3,,2
+47,visitas_arm_1,,2,4,,6,1,,1
+47,visitas_arm_1,,3,4,24/02/2023,1,2,,2
+47,visitas_arm_1,,4,4,23/02/2024,1,3,,2
+48,visitas_arm_1,,2,4,22/09/2022,1,1,,2
+48,visitas_arm_1,,3,4,05/10/2023,1,2,,2
+48,visitas_arm_1,,4,4,09/10/2024,5,3,,2
+49,visitas_arm_1,,2,4,,6,1,"¡El dia 03/03/2023 No se puede hacer la prueba de composición  corporal porque le coincide con la consulta de oftalmologia , se cambia paara el 30/03/2023",1
+49,visitas_arm_1,,3,4,31/03/2023,1,2,"¡El dia 03/03/2023 No se puede hacer la prueba de composición  corporal porque le coincide con la consulta de oftalmologia , se cambia paara el 30/03/2023",2
+49,visitas_arm_1,,4,4,06/03/2024,5,3,"¡El dia 03/03/2023 No se puede hacer la prueba de composición  corporal porque le coincide con la consulta de oftalmologia , se cambia paara el 30/03/2023",2
+50,visitas_arm_1,,2,4,,6,1,,1
+50,visitas_arm_1,,3,4,08/03/2024,1,3,,2
+51,visitas_arm_1,,2,4,,6,1,,1
+51,visitas_arm_1,,3,4,26/04/2023,3,2,,2
+52,visitas_arm_1,,2,4,,6,1,,1
+52,visitas_arm_1,,3,4,23/02/2023,3,2,,2
+53,visitas_arm_1,,2,4,,6,1,,1
+53,visitas_arm_1,,3,4,01/03/2024,1,2,,2
+53,visitas_arm_1,,4,4,07/03/2025,5,3,,2
+54,visitas_arm_1,,2,4,,6,1,,1
+54,visitas_arm_1,,3,4,17/03/2023,3,2,,2
+55,visitas_arm_1,,2,4,,7,1,se saca del estudio. D. cognitivo,1
+55,visitas_arm_1,,3,4,,7,2,se saca del estudio. D. cognitivo,1
+56,visitas_arm_1,,2,4,,6,1,,1
+56,visitas_arm_1,,3,4,15/12/2022,1,2,,2
+56,visitas_arm_1,,4,4,08/03/2024,1,3,,2
+57,visitas_arm_1,,2,4,,6,1,,1
+57,visitas_arm_1,,3,4,03/03/2023,1,2,,2
+57,visitas_arm_1,,4,4,01/03/2024,1,3,,2
+58,visitas_arm_1,,2,2,23/12/2022,1,1,,2
+58,visitas_arm_1,,3,2,05/05/2023,1,2,,2
+58,visitas_arm_1,,4,2,10/05/2024,3,3,,2
+59,visitas_arm_1,,2,2,31/03/2023,1,1,,2
+59,visitas_arm_1,,3,2,29/09/2023,1,2,,2
+59,visitas_arm_1,,4,2,,5,3,,1
+60,visitas_arm_1,,2,4,,6,1,,1
+60,visitas_arm_1,,3,4,16/03/2023,1,2,,2
+60,visitas_arm_1,,4,4,21/03/2024,1,3,,2
+61,visitas_arm_1,,2,2,,6,1,,1
+61,visitas_arm_1,,3,2,16/02/2023,1,2,,2
+62,visitas_arm_1,,2,2,02/12/2022,1,1,,2
+62,visitas_arm_1,,3,2,02/06/2023,3,2,,2
+63,visitas_arm_1,,2,2,,6,1,,1
+63,visitas_arm_1,,3,2,02/02/2023,3,2,,2
+64,visitas_arm_1,,2,2,,6,1,,1
+64,visitas_arm_1,,3,2,09/06/2023,1,2,,2
+64,visitas_arm_1,,4,2,07/06/2024,1,3,,2
+65,visitas_arm_1,,2,2,,6,1,,1
+65,visitas_arm_1,,3,2,08/06/2023,1,2,,2
+66,visitas_arm_1,,2,2,,6,1,,1
+66,visitas_arm_1,,3,2,08/06/2023,1,2,,2
+67,visitas_arm_1,,2,2,18/11/2022,1,1,,2
+68,visitas_arm_1,,2,2,,6,1,,1
+68,visitas_arm_1,,3,2,02/06/2023,1,2,,2
+68,visitas_arm_1,,4,2,07/06/2023,1,3,,2
+69,visitas_arm_1,,2,4,25/11/2022,1,1,,2
+69,visitas_arm_1,,3,4,21/04/2023,1,2,,2
+69,visitas_arm_1,,4,4,19/04/2024,5,3,,2
+70,visitas_arm_1,,2,4,25/11/2022,1,1,,2
+70,visitas_arm_1,,3,4,28/04/2023,1,2,,2
+70,visitas_arm_1,,4,4,26/04/2024,1,3,,2
+71,visitas_arm_1,,2,4,,6,1,"citada en 2 ocasiones (incomparecente), No volvemos a citar",1
+71,visitas_arm_1,,3,4,28/04/2023,3,2,"citada en 2 ocasiones (incomparecente), No volvemos a citar",2
+71,visitas_arm_1,,4,4,26/04/2024,1,3,"citada en 2 ocasiones (incomparecente), No volvemos a citar",2
+72,visitas_arm_1,,2,2,,6,1,,1
+72,visitas_arm_1,,3,2,29/06/2023,1,2,,2
+73,visitas_arm_1,,2,2,,6,1,,1
+73,visitas_arm_1,,3,2,14/06/2023,1,2,,2
+74,visitas_arm_1,,2,2,,6,1,,1
+74,visitas_arm_1,,3,2,23/06/2023,1,2,,2
+75,visitas_arm_1,,2,2,,6,1,,1
+75,visitas_arm_1,,3,2,21/07/2023,1,2,,2
+76,visitas_arm_1,,2,4,25/11/2022,1,1,,2
+76,visitas_arm_1,,3,4,05/05/2023,1,2,,2
+76,visitas_arm_1,,4,4,10/05/2024,1,3,,2
+77,visitas_arm_1,,2,4,25/11/2022,1,1,05/05/2023 Paciente ingresada 4n2612; FALLECIDA:,2
+77,visitas_arm_1,,3,4,05/05/2023,1,2,05/05/2023 Paciente ingresada 4n2612; FALLECIDA:,2
+78,visitas_arm_1,,2,2,,6,1,,1
+78,visitas_arm_1,,3,2,14/07/2023,1,2,,2
+79,visitas_arm_1,,2,2,,6,1,,1
+79,visitas_arm_1,,3,2,29/06/2023,1,2,,2
+80,visitas_arm_1,,2,2,,6,1,,1
+80,visitas_arm_1,,3,2,14/07/2023,1,2,,2
+81,visitas_arm_1,,2,2,,6,1,,1
+81,visitas_arm_1,,3,2,30/06/2023,1,2,,2
+82,visitas_arm_1,,2,2,,6,1,en la ECO (errata) aparece con el codigo MMVIDA-81A,1
+82,visitas_arm_1,,3,2,30/06/2023,1,2,en la ECO (errata) aparece con el codigo MMVIDA-81A,2
+83,visitas_arm_1,,2,2,16/02/2023,1,1,,2
+83,visitas_arm_1,,3,2,01/02/2024,1,2,,2
+84,visitas_arm_1,,2,2,,6,1,,1
+84,visitas_arm_1,,3,2,30/06/2023,1,2,,2
+85,visitas_arm_1,,2,2,,6,1,,1
+86,visitas_arm_1,,2,4,23/12/2022,1,1,,2
+86,visitas_arm_1,,3,4,14/06/2023,1,2,,2
+86,visitas_arm_1,,4,4,21/06/2024,5,3,,2
+87,visitas_arm_1,,2,2,27/01/2023,1,1,,2
+87,visitas_arm_1,,3,2,15/09/2023,1,2,,2
+87,visitas_arm_1,,4,2,,5,3,,1
+88,visitas_arm_1,,2,4,23/12/2022,1,1,CITADA 2 VECES EL 01/02/2024 (MAL CITADA INCOMPARECENTE) Y EL 07/06/2024,2
+88,visitas_arm_1,,3,4,09/06/2023,1,2,CITADA 2 VECES EL 01/02/2024 (MAL CITADA INCOMPARECENTE) Y EL 07/06/2024,2
+88,visitas_arm_1,,4,4,07/06/2024,1,3,CITADA 2 VECES EL 01/02/2024 (MAL CITADA INCOMPARECENTE) Y EL 07/06/2024,2
+89,visitas_arm_1,,2,4,16/12/2022,1,1,,2
+89,visitas_arm_1,,3,4,21/09/2023,1,2,,2
+89,visitas_arm_1,,4,4,08/02/2024,1,3,,2
+90,visitas_arm_1,,2,4,16/12/2023,3,1,,2
+90,visitas_arm_1,,3,4,23/06/2023,1,2,,2
+90,visitas_arm_1,,4,4,21/06/2024,5,3,,2
+91,visitas_arm_1,,2,4,17/11/2022,1,1,,2
+91,visitas_arm_1,,3,4,23/06/2023,3,2,,2
+91,visitas_arm_1,,4,4,07/06/2024,1,3,,2
+92,visitas_arm_1,,2,4,16/12/2022,1,1,,2
+92,visitas_arm_1,,3,4,23/06/2023,1,2,,2
+92,visitas_arm_1,,4,4,01/02/2024,1,3,,2
+93,visitas_arm_1,,2,2,,6,1,,1
+94,visitas_arm_1,,2,2,,6,1,,1
+95,visitas_arm_1,,2,2,,7,1,"No criterios de inclusión, (no se pude poner de pie)",1
+95,visitas_arm_1,,3,2,,7,2,"No criterios de inclusión, (no se pude poner de pie)",1
+96,visitas_arm_1,,2,2,,6,1,,1
+97,visitas_arm_1,,2,4,20/01/2023,1,1,,2
+97,visitas_arm_1,,3,4,22/06/2023,1,2,,2
+97,visitas_arm_1,,4,4,21/06/2024,5,3,,2
+98,visitas_arm_1,,2,4,13/01/2023,1,1,,2
+98,visitas_arm_1,,3,4,07/07/2023,1,2,,2
+98,visitas_arm_1,,4,4,05/07/2024,5,3,,2
+99,visitas_arm_1,,2,4,13/01/2023,1,1,,2
+99,visitas_arm_1,,3,4,07/07/2023,1,2,,2
+99,visitas_arm_1,,4,4,05/07/2024,5,3,,2
+100,visitas_arm_1,,2,4,13/01/2023,1,1,,2
+100,visitas_arm_1,,3,4,07/07/2023,1,2,,2
+100,visitas_arm_1,,4,4,05/07/2024,5,3,,2
+101,visitas_arm_1,,2,2,,4,1,operada el 11/08/2022. hago todo menos ECO,1
+102,visitas_arm_1,,2,4,10/03/2023,1,1,,2
+102,visitas_arm_1,,3,4,08/09/2023,1,2,,2
+102,visitas_arm_1,,4,4,06/09/2023,5,3,,2
+103,visitas_arm_1,,2,2,,7,1,OPERADA EL 2/09/2022,1
+103,visitas_arm_1,,3,2,,7,2,OPERADA EL 2/09/2022,1
+104,visitas_arm_1,,2,2,,4,1,,1
+105,visitas_arm_1,,2,4,03/05/2023,1,1,,2
+105,visitas_arm_1,,3,4,29/09/2023,1,2,,2
+105,visitas_arm_1,,4,4,27/09/2024,5,3,,2
+106,visitas_arm_1,,2,4,17/03/2023,3,1,,2
+106,visitas_arm_1,,3,4,22/09/2023,3,2,,2
+107,visitas_arm_1,,2,4,17/03/2023,1,1,,2
+107,visitas_arm_1,,3,4,22/09/2023,1,2,,2
+107,visitas_arm_1,,4,4,20/09/2024,5,3,,2
+108,visitas_arm_1,,2,2,,4,1,,1
+109,visitas_arm_1,,2,4,31/03/2023,1,1,OPERADA Agosto 2022,2
+109,visitas_arm_1,,3,4,29/09/2023,1,2,OPERADA Agosto 2022,2
+109,visitas_arm_1,,4,4,27/09/2024,5,3,OPERADA Agosto 2022,2
+110,visitas_arm_1,,2,4,31/03/2023,1,1,,2
+110,visitas_arm_1,,3,4,29/09/2023,1,2,,2
+110,visitas_arm_1,,4,4,27/09/2024,5,3,,2
+111,visitas_arm_1,,2,4,,7,1,OPERADA Agosto2022,1
+111,visitas_arm_1,,3,4,,7,2,OPERADA Agosto2022,1
+112,visitas_arm_1,,2,4,31/03/2023,3,1,REPROGRAMDA 2 VECES la cita; No viene a la cita del dia 2/02/2024 Y 14/02/2024,2
+112,visitas_arm_1,,3,4,18/01/2024,3,2,REPROGRAMDA 2 VECES la cita; No viene a la cita del dia 2/02/2024 Y 14/02/2024,2
+113,visitas_arm_1,,2,4,14/04/2023,1,1,,2
+113,visitas_arm_1,,3,4,26/10/2023,1,2,,2
+114,visitas_arm_1,,2,4,14/04/2023,1,1,"Reprograda la cita que tenía hoy (06/10/2023)a las 8:30 (no por nuestra parte), para el 26/10/2023",2
+114,visitas_arm_1,,3,4,26/10/2023,1,2,"Reprograda la cita que tenía hoy (06/10/2023)a las 8:30 (no por nuestra parte), para el 26/10/2023",2
+115,visitas_arm_1,,2,2,15/05/2023,1,1,,2
+116,visitas_arm_1,,2,2,16/06/2023,1,1,,2
+116,visitas_arm_1,,3,2,15/12/2023,1,2,,2
+116,visitas_arm_1,,4,2,,5,3,,1
+117,visitas_arm_1,,2,2,14/04/2023,1,1,,2
+117,visitas_arm_1,,3,2,13/10/2023,5,2,,2
+118,visitas_arm_1,,2,4,20/04/2023,1,1,"VISITA AL AÑO , REALIZADA POR ANGELICA",2
+118,visitas_arm_1,,3,4,13/12/2023,1,2,"VISITA AL AÑO , REALIZADA POR ANGELICA",2
+119,visitas_arm_1,,2,4,14/04/2023,1,1,,2
+119,visitas_arm_1,,3,4,20/10/2023,1,2,,2
+119,visitas_arm_1,,4,4,18/10/2024,1,3,,2
+120,visitas_arm_1,,2,2,21/04/2023,3,1,,2
+120,visitas_arm_1,,3,2,21/04/2023,3,2,,2
+121,visitas_arm_1,,2,4,28/04/2023,1,1,NO TUBOS DE LABORATORIO,2
+121,visitas_arm_1,,3,4,27/10/2023,1,2,NO TUBOS DE LABORATORIO,2
+121,visitas_arm_1,,4,4,25/10/2024,5,3,NO TUBOS DE LABORATORIO,2
+122,visitas_arm_1,,2,4,28/04/2023,1,1,NO TUBOS DE LABORATORIO,2
+122,visitas_arm_1,,3,4,27/10/2023,1,2,NO TUBOS DE LABORATORIO,2
+122,visitas_arm_1,,4,4,25/10/2024,5,3,NO TUBOS DE LABORATORIO,2
+123,visitas_arm_1,,2,2,11/10/2023,1,2,,2
+124,visitas_arm_1,,2,2,,6,1,no tiene previa NI LABORATORIO. Operada hace 1 año.,1
+124,visitas_arm_1,,3,2,03/11/2023,5,2,no tiene previa NI LABORATORIO. Operada hace 1 año.,2
+125,visitas_arm_1,,2,2,13/04/2023,1,1,,2
+126,visitas_arm_1,,2,4,08/09/2023,5,1,,2
+126,visitas_arm_1,,3,4,20/10/2023,1,2,,2
+126,visitas_arm_1,,4,4,18/10/2024,1,3,,2
+127,visitas_arm_1,,2,2,,2,1,,1
+127,visitas_arm_1,,3,2,22/03/2024,1,2,,2
+127,visitas_arm_1,,4,2,21/03/2025,5,3,,2
+129,visitas_arm_1,,2,4,24/11/2023,1,1,,2
+129,visitas_arm_1,,3,4,22/11/2023,5,2,,2
+130,visitas_arm_1,,2,4,24/11/2023,1,1,,2
+130,visitas_arm_1,,3,4,22/11/2023,5,2,,2
+130,visitas_arm_1,,4,4,12/06/2024,3,3,,2
+131,visitas_arm_1,,2,4,31/01/2024,1,1,DÍA 31/01/2024 prueba realizada por Angélica,2
+131,visitas_arm_1,,3,4,19/01/2024,5,2,DÍA 31/01/2024 prueba realizada por Angélica,2
+132,visitas_arm_1,,2,4,,6,1,Mastectomia bilateral 04/07/2023; no se puede realizar la dina mometría,1
+132,visitas_arm_1,,3,4,19/07/2024,5,2,Mastectomia bilateral 04/07/2023; no se puede realizar la dina mometría,2
+134,visitas_arm_1,,2,2,10/01/2024,1,1,,2
+136,visitas_arm_1,,2,4,19/01/2024,5,1,,2
+137,visitas_arm_1,,2,4,,2,1,decide evitar recibir rt  le relizan mastectomia. No tiene previsto recibir ningun otro tto,1
+137,visitas_arm_1,,3,4,12/09/2024,5,2,decide evitar recibir rt  le relizan mastectomia. No tiene previsto recibir ningun otro tto,2
+138,visitas_arm_1,,2,4,12/01/2024,1,1,,2
+138,visitas_arm_1,,3,4,,5,2,,1
+140,visitas_arm_1,,2,2,09/02/2024,3,1,,2
+145,visitas_arm_1,,2,2,,6,1,"Hecha analitica 30/05/2023, pero retira consetimiento",1
+145,visitas_arm_1,,3,2,06/06/2024,1,2,"Hecha analitica 30/05/2023, pero retira consetimiento",2
+151,visitas_arm_1,,2,2,,6,1,,1
+151,visitas_arm_1,,3,2,06/06/2024,1,2,,2
+154,visitas_arm_1,,2,4,15/11/2024,5,2,,2
+155,visitas_arm_1,,2,4,15/11/2024,5,2,,2
+158,visitas_arm_1,,2,4,25/04/2024,1,1,,2
+158,visitas_arm_1,,3,4,24/11/2023,1,2,,2
+159,visitas_arm_1,,2,4,24/11/2023,1,2,,2
+164,visitas_arm_1,,2,4,,2,1,,1
+164,visitas_arm_1,,3,4,20/12/2024,5,2,,2
+169,visitas_arm_1,,2,4,,2,1,,1
+169,visitas_arm_1,,3,4,20/12/2024,5,2,,2
+172,visitas_arm_1,,2,4,17/01/2025,5,2,,2
+179,visitas_arm_1,,2,4,07/02/2025,5,2,,2
+180,visitas_arm_1,,2,4,13/09/2024,5,1,"ACUDE A LA PRUEBA. EN EL ULTIMO MOMENTO DECIDE IRSE, PENDIENTE LLAMARLA, CITAMOS PARA EL 23-02-2024",2
+187,visitas_arm_1,,2,4,13/09/2024,5,1,,2
+188,visitas_arm_1,,2,4,13/09/2024,5,1,,2
+196,visitas_arm_1,,2,2,,6,1,,1
+196,visitas_arm_1,,3,2,20/03/2024,1,2,,2
+197,visitas_arm_1,,2,4,27/09/2024,5,1,,2
+205,visitas_arm_1,,2,4,28/10/2024,5,1,,2
+210,visitas_arm_1,,2,4,08/11/2024,5,1,,2
+211,visitas_arm_1,,2,4,08/11/2024,5,1,,2
+212,visitas_arm_1,,2,4,08/11/2024,5,1,,2
+213,visitas_arm_1,,2,4,08/11/2024,5,1,,2
+214,visitas_arm_1,,2,4,22/11/2024,5,1,"10/05/2024 No hacemos la prueba por se solapa con la consulta de cardiologia , se vuelve a citar para el 24/05/2024",2
+215,visitas_arm_1,,2,4,15/11/2024,5,1,,2
+220,visitas_arm_1,,2,4,22/11/2024,5,1,,2
