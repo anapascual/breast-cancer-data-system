@@ -5,3 +5,12 @@ __pycache__/
 .env
 dist/
 build/
+
+automatizacion_exportacion/build/
+automatizacion_exportacion/dist/
+automatizacion_exportacion/guardar csv aqui/
+*.exe
+automatizacion_exportacion/build/
+automatizacion_exportacion/dist/
+automatizacion_exportacion/guardar csv aqui/
+*.exe
